@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "期待通り",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-13T15:34:08.710051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "期待通り",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/01_期待通り_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "期待通り",
+      "artist": "稲葉曇, 音街ウナ",
+      "has_synced": false,
+      "path": "select/pl_01_期待通り_稲葉曇,_音街ウナ.txt"
+    }
+  ]
+}
